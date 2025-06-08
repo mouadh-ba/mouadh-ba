@@ -68,7 +68,7 @@ Fueled by coffee ☕, I love turning complex problems into elegant, automated so
 
 
 ## 📫 Get in Touch
-
+- 🌐 [Portfolio](https://mouadh-ba.github.io/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mouadh-ben-abdallah/)  
 - ✉️ [Email](mailto:contact.mouadh.ben.abdallah@gmail.com)  
 
